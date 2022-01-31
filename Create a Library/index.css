@@ -1,0 +1,16 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#container > div {
+    margin-bottom: 20px;
+}
+
+#display {
+    margin: auto;
+    margin-top: 100px;
+}
+#display th {
+    width: 30%;
+}

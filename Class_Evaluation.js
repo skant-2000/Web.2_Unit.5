@@ -13,8 +13,8 @@ class Rectangle {
 class Square extends Rectangle {
 
     constructor(edge){
-        super(edge, edge)
         this.side = edge
+        super(edge, edge)
     }
 
     getPerimeter(){
